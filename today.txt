@@ -21,5 +21,10 @@ Company Info:
 Company Name:SCBL
 Location: Land View Tower, Gulshan 2, Dhaka.
 
+Educational backgroud:
+
+BSC: Bsc in ECE from Kuet.
+HSC: HSC in Science from Chuadanga Govt. College.
+SSC: SSC in Science from V.J. Govt. High School.
 
 
