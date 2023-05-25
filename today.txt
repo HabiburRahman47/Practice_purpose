@@ -27,4 +27,7 @@ BSC: Bsc in ECE from Kuet.
 HSC: HSC in Science from Chuadanga Govt. College.
 SSC: SSC in Science from V.J. Govt. High School.
 
+Marital status:
+unmaried
+
 
